@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working for Colbr.co<br>👯‍♂️ I'm looking to collaborate on new projects<br>🤝 I'm looking for help with finding a new startup idea<br>🌱 I'm currently learning Python<br>💬 Ask me about everything<br>⚡ Fin fact: I read books, I run and I wake up every morning at 5 am <br>
+🔭 I’m currently working for Stokelp.com<br>👯‍♂️ I'm looking to collaborate on new projects<br>🤝 I'm looking for help with finding a new startup idea<br>🌱 I'm currently learning Python<br>💬 Ask me about everything<br>⚡ Fin fact: I read books, I run and I wake up every morning at 5 am <br>
 
 
 ## 🌐 Socials
